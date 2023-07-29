@@ -6,10 +6,13 @@ public class DemoDay5 {
 		System.out.println("Rainy");
 	}
 	public static void getInfo(){
-		system.out.println("something");
+		System.out.println("something");
 	}
 
 	public static void getData(){
-		system.out.println("xx");
+		System.out.println("xx");
+	}
+	public static void add() {
+		System.out.println("total");
 	}
 }
